@@ -76,7 +76,7 @@ function BURGER(){
 		logo.style.display = 'flex';
 	}
 }
-*/
+*//*
 jQuery(function(){
 
 	$('.burger').on('click',function(){
@@ -105,7 +105,7 @@ jQuery(function(){
 
 
 
-});
+});*/
 
 /*
 document.addEventListener("DOMContentLoaded", TROYAN);
